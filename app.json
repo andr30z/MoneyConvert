@@ -1,5 +1,21 @@
 {
   "expo": {
+    "packagerOpts": {
+      "config": "metro.config.js",
+      "sourceExts": [
+        "expo.ts",
+        "expo.tsx",
+        "expo.js",
+        "expo.jsx",
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "wasm",
+        "svg"
+      ]
+    },
     "name": "CurrencyConverter",
     "slug": "CurrencyConverter",
     "platforms": [
@@ -12,8 +28,8 @@
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "cover",
+      "backgroundColor": "#6434C3"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,6 +39,10 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android":{
+      "package": "com.andr3zinh00.currencyconvert",
+      "versionCode": 1
     }
   }
 }

@@ -1,0 +1,38 @@
+const flagCurrency = {
+    USD: 'US',
+    EUR: 'EU',
+    THB: 'TH',
+    CAD: 'CA',
+    HKD: 'HK',
+    PHP: 'PH',
+    DKK: 'DK',
+    HUF: 'HU',
+    CZK: 'CZ',
+    GBP: 'GB',
+    RON: 'RO',
+    SEK: 'SE',
+    IDR: 'ID',
+    INR: 'IN',
+    BRL: 'BR',
+    RUB: 'RU',
+    HRK: 'HR',
+    JPY: 'JP',
+    CHF: 'CH',
+    MYR: 'MY',
+    BGN: 'BG',
+    TRY: 'TR',
+    CNY: 'CN',
+    NOK: 'NO',
+    NZD: 'NZ',
+    ZAR: 'ZA',
+    MXN: 'MX',
+    ILS: 'IL',
+    AUD: 'AU',
+    SGD: 'SG',
+    KRW: 'KR',
+    PLN: 'PL',
+    ISK: 'IS'
+}
+
+
+export default flagCurrency;
