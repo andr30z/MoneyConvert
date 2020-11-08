@@ -1,6 +1,6 @@
 ﻿<h1> MoneyConvert </h1>
 
-> <p align="center"> Converções e cotações de moedas.</p> 
+> <p align="center"> Conversões e cotações de moedas.</p> 
 
 
 <p align="center">
