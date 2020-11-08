@@ -15,5 +15,6 @@ export const styles = StyleSheet.create({
         marginBottom: 10,
         fontFamily: 'Roboto_500Medium',
         color: '#fff',
+        textAlign:'center',
     }
 });
