@@ -1,10 +1,10 @@
-﻿<h1> Currency Convert </h1>
+﻿<h1> MoneyConvert </h1>
 
-> <p align="center"> Conversoções e cotações de moedas.</p> 
+> <p align="center"> Converções e cotações de moedas.</p> 
 
 
 <p align="center">
-    Com o <b>Currency Converter</b> é possivel acompanhar cotações diariamente,<br>comparar moedas através de gráficos e realizar a converção de câmbio
+    Com o <b>MoneyConvert</b> é possivel acompanhar cotações diariamente,<br>comparar moedas através de gráficos e realizar a converção de câmbio
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ Pronto, agora apenas siga as instruções do expo e execute o aplicativo no emul
 
 
 
-## Redes Sociais 
+## Redes Sociais e Contato
 1. [Twitter](https://twitter.com/andr3zinh000)
 2. Gmail: andrelp1015@gmail.com
 

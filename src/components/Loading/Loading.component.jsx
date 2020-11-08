@@ -7,7 +7,6 @@ const Loading = () => (
     </View>
 );
 
-export default Loading;
 
 const styles = StyleSheet.create({
     background: {
@@ -16,3 +15,5 @@ const styles = StyleSheet.create({
         alignItems: 'center',
     }
 })
+
+export default Loading;

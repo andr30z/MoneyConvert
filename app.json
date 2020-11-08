@@ -16,8 +16,8 @@
         "svg"
       ]
     },
-    "name": "CurrencyConverter",
-    "slug": "CurrencyConverter",
+    "name": "MoneyConvert",
+    "slug": "MoneyConvert",
     "platforms": [
       "ios",
       "android",
@@ -41,7 +41,7 @@
       "supportsTablet": true
     },
     "android":{
-      "package": "com.andr3zinh00.currencyconvert",
+      "package": "com.andr3zinh00.moneyconvert",
       "versionCode": 1
     }
   }
