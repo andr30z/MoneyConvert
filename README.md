@@ -4,7 +4,7 @@
 
 
 <p align="center">
-    Com o <b>MoneyConvert</b> é possivel acompanhar cotações diariamente,<br>comparar moedas através de gráficos e realizar a converção de câmbio
+    Com o <b>MoneyConvert</b> é possivel acompanhar cotações diariamente,<br>comparar moedas através de gráficos e realizar a conversão de câmbio
 </p>
 
 <p align="center">
